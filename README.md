@@ -1,4 +1,5 @@
 # Image Processing Create And Dublicate Dataset
+Yeni resim dataları üretme ya da çoğaltma programıdır.
 
 ## Projede Kullanılan IDE'ler ve İndirme Linki
 
@@ -26,3 +27,38 @@
  </li>
 </ul>
  
+## Projenin Çalışması İçin Gerekli Kütüphaler ve İndirme Linkleri
+<ul>
+  <li>Tensorflow
+      <ul>
+         <li>CPU için:<code>pip install --upgrade tensorflow</code></li>
+         <li>GPU için:<code>pip install --upgrade tensorflow-gpu</code></li>
+       </ul>  
+  </li>
+  <li>Keras
+    <ul>
+          <li><code>pip install keras</code></li>
+       </ul>  
+  </li>
+  <li>OpenCV
+    <ul>
+          <li><code>pip install opencv-python</code></li>
+        </ul>  
+  </li>
+  <li>PyQt5</li>
+    <ul>
+          <li><code>pip install PyQt5</code></li>
+   </ul>  
+  </li>
+  </li>
+  <li>Scipy</li>
+    <ul>
+          <li><code>pip install scipy</code></li>
+   </ul>  
+  </li>
+  <li>Skimage</li>
+    <ul>
+          <li><code>pip install skimage</code></li>
+   </ul>  
+  </li>
+</ul>

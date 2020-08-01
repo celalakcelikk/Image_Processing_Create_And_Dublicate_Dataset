@@ -56,3 +56,20 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
 <ul>
   <li>mainWindows.py dosyasını çalıştırdığınızda anasayfa açılıyor.</li>
 </ul>
+<img src= "https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/mainwindows.PNG">
+<p> Yukarıdaki resimde görüldüğü gibi gerekli parametreleri halledince "CONTROL" butonuna basınca, parametreleri kontrol sayfası açılmaktadır.
+
+## Yeni Resim Üretme
+
+<img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/createimagewindows.png" >
+
+## Var olan Resimleri Çoğaltma
+### Çoğaltama Parametreleri Ekleme Sayfası
+<img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/augmentedwindows.png" >
+<ul><li>Çoğaltma paramtrelerini test etmek için "Augmented Image Control" butonuna tıklayıp kontrol yapılabilir.</li></ul>
+<ul><li>Çoğaltma işlemini başlatmak için "Augmented Image" butonuna tıklayıp kontrol yapılabilir.</li></ul>
+
+#### Çoğaltma Parametreleri Kontrol Etme Sayfası
+<img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/augmentedTestWindows.png" >
+#### Resimleri Çoğaltma Sayfası
+<img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/createaugmentedwindows.png" >

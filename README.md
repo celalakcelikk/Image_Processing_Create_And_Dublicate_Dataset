@@ -71,5 +71,6 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
 
 #### Çoğaltma Parametreleri Kontrol Etme Sayfası
 <img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/augmentedTestWindows.png" >
+
 #### Resimleri Çoğaltma Sayfası
 <img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/createaugmentedwindows.png" >

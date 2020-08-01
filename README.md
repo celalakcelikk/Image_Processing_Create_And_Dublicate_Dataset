@@ -59,6 +59,17 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
 <img src= "https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/mainwindows.PNG">
 <p> Yukarıdaki resimde görüldüğü gibi gerekli parametreleri halledince "CONTROL" butonuna basınca, parametreleri kontrol sayfası açılmaktadır.
 
+#### Parametrelerin Açıklaması
+<p>Sırayla:</p>
+<ul>
+  <li>İlk satır dataların kaydedileceği klasörü seçmeniz gerekiyor.</li>
+  <li>İkinci satır dataların sınıf adları olan .txt uzantılı dosyayı seçmemize yarıyor.</li>
+  <li>Üçüncü satır kaç tane aynı sınıftan resim üreteceğimizi yazmamıza yarıyor.Not: Data çoğaltmada işe yaramıyor. Ama boş bırakmayınız.</li>
+  <li>Dördüncü satır birinci sütun data işlemini seçmemize yarıyor.</li>
+  <li>Dördüncü satır ikinci sütun datanın kayıt edilecek uzantısını seçmemize yarıyor.</li>
+  <li>Beşinci satır kamerada yapılacak işlemi göstermede yardımcı datayı seçmemize yarıyor.</li>
+</ul>
+  
 ## Yeni Resim Üretme
 
 <img src="https://github.com/celalakcelikk/Image_processing_create_and_dublicate_dataset/blob/master/images/createimagewindows.png" >

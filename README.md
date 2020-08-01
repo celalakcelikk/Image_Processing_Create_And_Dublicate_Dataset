@@ -29,17 +29,6 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
  
 ## Projenin Çalışması İçin Gerekli Kütüphaler ve İndirme Linkleri
 <ul>
-  <li>Tensorflow
-      <ul>
-         <li>CPU için:<code>pip install --upgrade tensorflow</code></li>
-         <li>GPU için:<code>pip install --upgrade tensorflow-gpu</code></li>
-       </ul>  
-  </li>
-  <li>Keras
-    <ul>
-          <li><code>pip install keras</code></li>
-       </ul>  
-  </li>
   <li>OpenCV
     <ul>
           <li><code>pip install opencv-python</code></li>
@@ -61,4 +50,9 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
           <li><code>pip install skimage</code></li>
    </ul>  
   </li>
+</ul>
+
+## Proje Çalıştığında Açılan Sayfalar
+<ul>
+  <li>mainWindows.py dosyasını çalıştırdığınızda anasayfa açılıyor.</li>
 </ul>

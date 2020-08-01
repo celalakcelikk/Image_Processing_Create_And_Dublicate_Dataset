@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jun 19 05:55:02 2020
-
-@author: celal
-"""
 
 import sys
 from PyQt5.QtWidgets import *
@@ -11,7 +6,8 @@ from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from createDataSetWindows import CreateDataSetWindows
 from augmentedWindows import AugmentedWindows
-from mainWindows import MainWindows
+
+
 class FileSystemView(QWidget):
   def __init__(self,folderPath,dataClassesFilePath,dataSupportFolderPath,dataEpochsNumber,checkedRadio,checkedRadio_Image=0):
     self.appWidth=1200
@@ -162,6 +158,7 @@ class FileSystemView(QWidget):
 
   def openMainWindow(self):
     self.hide()
+    from mainWindows import MainWindows
     self.mainwindow = MainWindows()
     self.mainwindow.show()
     

@@ -3,11 +3,7 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
 
 ## Proje Test Videosu
 <ul>
-  <li>
-    <ul>
-      <li> İndirme Linki: https://github.com/celalakcelikk/Image_Processing_Create_And_Dublicate_Dataset/blob/master/images/info_video.mp4 </li>
-    </ul>
-  </li>
+  <li> İndirme Linki: https://github.com/celalakcelikk/Image_Processing_Create_And_Dublicate_Dataset/blob/master/images/info_video.mp4 </li>
 </ul>
 
 ## Projede Kullanılan IDE'ler ve İndirme Linki

@@ -3,7 +3,7 @@ Yeni resim dataları üretme ya da çoğaltma programıdır.
 
 ## Proje Test Videosu
 <video id="player">
-  <source src="info_video.mp4" type="video/mp4" />
+  <source src="images/info_video.mp4" type="video/mp4" />
   <!-- Captions are optional -->
 </video>
 
